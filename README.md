@@ -6,6 +6,11 @@
   In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
   Add your open source license, GitHub uses MIT license.
 -->
+# Communicate Using Markdown (H1 - عنوان رئيسي)
+
+## Step 1: Add Headers (H2 - عنوان فرعي)
+
+### This is Level 3 Header (H3 - عنوان ثانوي)
 # عنوان رئيسي (H1)
 ## عنوان فرعي (H2)
 ### عنوان ثانوي (H3)
